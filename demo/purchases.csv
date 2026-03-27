@@ -1,0 +1,5 @@
+"Receipt Date","Supplier ID","Total Amount","Ingredient Code","Ingredient Name","Quantity","Unit","Unit Price"
+"2023-11-01","S-001","150.00","ING-001","Flour Type 45","10","kg","15.00"
+"2023-11-01","S-002","50.00","ING-002","Olive Oil","5","L","10.00"
+"2023-11-02","S-003","120.00","ING-003","Beef Tenderloin","2","kg","60.00"
+"2023-11-03","S-001","30.00","ING-004","Butter","3","kg","10.00"

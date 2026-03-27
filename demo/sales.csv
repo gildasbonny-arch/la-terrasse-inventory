@@ -1,0 +1,5 @@
+"Sale Date","POS Item ID","Item Name","Quantity Sold","Total Amount"
+"2023-11-01","POS-1001","Beef Wellington","5","250.00"
+"2023-11-01","POS-1002","Pasta Primavera","12","180.00"
+"2023-11-02","POS-1001","Beef Wellington","3","150.00"
+"2023-11-02","POS-1003","Chocolate Lava Cake","8","96.00"
